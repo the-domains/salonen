@@ -4,8 +4,15 @@
         <description><![CDATA[salonen]]></description>
         <link>https://thegrid.ai/salonen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 17:41:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 17:41:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/salonen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3fb9677c233b3f91105ba07a3fb01abc85d3cb92.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/salonen/f97d185d-b8cf-4fff-af49-1f6d8b70ba48/index.html</link>
+            <guid isPermaLink="false">f97d185d-b8cf-4fff-af49-1f6d8b70ba48</guid>
+            <pubDate>Mon, 07 Mar 2016 17:40:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://media.giphy.com/media/3rgXBvvLAG1T4exmgM/giphy.gif">]]></description>
