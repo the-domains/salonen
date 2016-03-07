@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[salonen]]></title>
         <description><![CDATA[salonen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/salonen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 17:09:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 17:41:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/salonen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://media.giphy.com/media/3rgXBvvLAG1T4exmgM/giphy.gif">]]></description>
+            <link>https://thegrid.ai/salonen/8a1531ff-4416-4a29-9d39-2b9279f8b28a/index.html</link>
+            <guid isPermaLink="false">8a1531ff-4416-4a29-9d39-2b9279f8b28a</guid>
+            <pubDate>Mon, 07 Mar 2016 17:40:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/29e6d09c-a56a-463e-96b7-51278c380306.png">]]></description>
-            <link>undefined4eae19fb-7e25-4b56-835d-c1a3c47de522/index.html</link>
+            <link>https://thegrid.ai/salonen/4eae19fb-7e25-4b56-835d-c1a3c47de522/index.html</link>
             <guid isPermaLink="false">4eae19fb-7e25-4b56-835d-c1a3c47de522</guid>
             <pubDate>Mon, 07 Mar 2016 17:08:58 GMT</pubDate>
         </item>
